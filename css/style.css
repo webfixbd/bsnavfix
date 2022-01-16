@@ -1,0 +1,8 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+h1{
+    color: linear-gradient(to right, #12c2e9, #c471ed, #f64f59);
+}
